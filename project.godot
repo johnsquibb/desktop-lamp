@@ -14,7 +14,12 @@ config/name="Desk Lamp"
 config/version="1.0"
 run/main_scene="uid://cfiaq6641uo8a"
 config/features=PackedStringArray("4.5", "Forward Plus")
+run/max_fps=30
 config/icon="uid://dkvjrugojjeqk"
+
+[debug]
+
+settings/stdout/print_fps=true
 
 [display]
 
