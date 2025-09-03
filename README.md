@@ -1,6 +1,19 @@
 # Desktop Lamp
 A Godot 4 application to use a hardware display as a light source.
 
+## Usage
+Download the project and open it in Godot 4.5+.
+
+Press F5 to run the application using the debugger. 
+
+## Exporting Build
+Export your build via the Godot Editor in the usual manner using export templates for your platform. You can learn more about exporting Godot Projects at: https://docs.godotengine.org/en/latest/tutorials/export/exporting_projects.html.
+
+## Download Binaries
+If you want to use the application without building it, you can get it here: 
+
+// TODO itch.io link here
+
 ## Why?
 I like to keep the lights low in my office, and my desk free of extra appliances. I can pop this
 up to use my monitor as a quick light source while scribbling on paper or reading from a book. It also
