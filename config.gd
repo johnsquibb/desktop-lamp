@@ -1,5 +1,8 @@
 class_name Config extends Node
 
+## The current app version displayed in window title.
+const APP_VERSION: String = "1.0.0"
+
 ## Placeholder for no window mode selection made.
 const WINDOW_MODE_NONE: int = -1
 
