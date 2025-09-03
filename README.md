@@ -75,4 +75,4 @@ to update the Input Map to make sense for your platform. These are configured in
 Fork the repo, make your changes, and open a pull request. Include clear code comments and update this README with any relevant documentation. Add helpful notes in your pull request to explain the goals and context of your contributions.
 
 ## License
-This project is licensed under MIT. See LICENSE.md for details.
+This project is licensed under MIT. See LICENSE for details.
